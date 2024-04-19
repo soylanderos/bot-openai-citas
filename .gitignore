@@ -22,7 +22,7 @@ log.txt
 /www
 /platforms
 /plugins
-
+/bot_sessions
 # Compiled output
 /dist
 /tmp
@@ -74,3 +74,11 @@ Thumbs.db
 .firebase
 *-debug.log
 .runtimeconfig.json
+
+node_modules
+.env
+*.log
+*.png
+*_sessions
+dist/*
+node_modules
